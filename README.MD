@@ -1,5 +1,5 @@
 ## Adopting the Open Source Model
-[[License: Creative Commons Attribution 4.0 International License](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![License: Creative Commons Attribution 4.0 International License](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ---
 
@@ -10,4 +10,4 @@ Learn how adopting the Open Source Model can improve your organization’s “time t
 
 
 ## Presentations
-See [Adopting the Open Source Model](./Adopting the Open Source Model.pptx) for the presentation.
+See [Adopting the Open Source Model](Adopting the Open Source Model.pptx) for the presentation.
