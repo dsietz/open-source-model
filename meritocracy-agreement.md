@@ -3,7 +3,7 @@
 
 ### Contributing
 We are glad that you’d like to help contribute to this open source project!
-We are currently following the **__meritocracy__** contribution model. How to contribute is based on the following roles: 
+We are currently following the **__Meritocracy__** contribution model. How to contribute is based on the following roles: 
 
 ### Adopter
 You are welcome to download the product(s) and its source code for your use. By doing so, you are agreeing to the following responsibilities:
