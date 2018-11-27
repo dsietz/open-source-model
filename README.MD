@@ -10,4 +10,4 @@ Learn how adopting the Open Source Model can improve your organization’s “time t
 
 
 ## Presentations
-See [Adopting the Open Source Model](Adopting the Open Source Model.pptx) for the presentation.
+See [Adopting the Open Source Model](https://github.com/dsietz/open-source-model/blob/master/Adopting%20the%20Open%20Source%20Model.pptx) for the presentation.
