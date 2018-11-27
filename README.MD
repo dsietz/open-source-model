@@ -9,9 +9,9 @@ Open source is growing with leaps and bounds. Even corporations are adopting the
 Learn how adopting the Open Source Model can improve your organization’s “time to market”, product quality, professional climate, and Agile adoption. We’ll focus on what constitutes an Open Source mindset, how to implement it, and some of the pitfalls and anti-patterns to avoid.
 
 ### Contribution Templates
-- [Benevolent Dictator for Life](./bdfl-agreement.md)
-- [Meritocracy](./meritocracy-agreement.md)
-- [Liberal Contributor](./liberal-agreement.md)
+- [Benevolent Dictator for Life](./templates/bdfl-agreement.md)
+- [Meritocracy](./templates/meritocracy-agreement.md)
+- [Liberal Contributor](./templates/liberal-agreement.md)
 
 ### Presentations
 See [Adopting the Open Source Model](https://github.com/dsietz/open-source-model/blob/master/Adopting%20the%20Open%20Source%20Model.pptx) for the presentation.
