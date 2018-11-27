@@ -1,1 +1,7 @@
-### This would be a link to the development branch (or your integration branch) in your source code repository. 
+### Branching
+
+> This is where you would link to your source code repository. 
+> NOTE: Make sure developers have everything they need for development available in the repo (or link to the contribution website - see example below)
+
+#### Example
+![Contribution Website](./contribution.png)
