@@ -1,1 +1,6 @@
-### This would be a link to your user forum
+### User Forum
+
+> This is where you would link to your __community__ site - where the user forum, requests, and discussions take place.
+
+#### Example
+![User Forum Website](./forum.png) 
