@@ -1,5 +1,5 @@
 ## Adopting the Open Source Model
-[![License: Creative Commons Attribution 4.0 International License](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+[[License: Creative Commons Attribution 4.0 International License](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ---
 
